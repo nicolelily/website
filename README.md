@@ -4,7 +4,7 @@
 - 🎨 My portfolio of work in Tableau is on [Tableau Public](https://public.tableau.com/app/profile/nicole.mark).
 - 🌱 I’m currently brushing up on HTML and CSS and learning d3.js
 - 💞️ I’m looking to collaborate on dataviz projects, especially ones with a positive social impact.
-- 📫 Reach me via [email](hello@nicoledesignsdata.com), on [Twitter](https://www.twitter.com/nicolemark_) (for now, anyway), or `@nicolemark@vis.social`  or `nicole@indieweb.social` on Mastodon.
+- 📫 Reach me via [email](hello@nicoledesignsdata.com), on [Twitter](https://www.twitter.com/nicolemark_) (for now, anyway), or `@nicolemark@vis.social`  on Mastodon.
 
 <!---
 nicolelily/nicolelily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
