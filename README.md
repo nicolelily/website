@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nicolelily
-- 👀 I’m interested in data visualization in all its forms, from hand-drawn to created in Tableau to coded with Python or JavaScript libraries. I love data art and generative art, too, I just haven't had time to do much myself.
-- ✍🏼 I blog about data visualization, Tableau, and mental health on **SELECT * FROM data;** on [Medium](https://medium.com/select-from-data) and [Substack](https://selectallfromdata.substack.com).
+- 👋 Hi, I’m Nicole, a dataviz engineer, Tableau Ambassador, and founder of [Women in Dataviz](https://www.craft.do/s/KdYJAxSQyrF4PA).
+- 👀 I’m interested in data visualization in all its forms, from hand-drawn to created in Tableau to coded with Python or JavaScript. I'm a new convert to Svelte. 
+- ✍🏼 I blog about data analytics, visualization, Tableau, and anything else that's on my mind at [SELECT * FROM data;](https://medium.com/select-from-data)
 - 🎨 My portfolio of work in Tableau is on [Tableau Public](https://public.tableau.com/app/profile/nicole.mark).
 - 🌱 I’m currently brushing up on HTML and CSS and learning d3.js
 - 💞️ I’m looking to collaborate on dataviz projects, especially ones with a positive social impact.
