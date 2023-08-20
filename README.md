@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on dataviz projects, especially ones with a positive social impact.
 - 📫 [email](hello@nicoledesignsdata.com)
 - ☁️ [Bluesky](https://bsky.app/profile/nicolemark.bsky.social)
-- 🖥 [Mastodon](https://vis.social/@nicolemark).
+- 🖥 [Mastodon](https://vis.social/@nicolemark)
 
 <!---
 nicolelily/nicolelily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
