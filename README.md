@@ -5,7 +5,7 @@
 - 🌱 I’m currently brushing up on HTML and CSS and learning d3.js. I'm a new convert to Svelte.
 - 💞️ I’m looking to collaborate on dataviz projects, especially ones with a positive social impact.
 - 📫 [email](hello@nicoledesignsdata.com)
-- ☁️ [Bluesky](https://bsky.app/profile/nicolemark.bsky.social))
+- ☁️ [Bluesky](https://bsky.app/profile/nicolemark.bsky.social)
 - 🖥 [Mastodon](https://vis.social/@nicolemark).
 
 <!---
