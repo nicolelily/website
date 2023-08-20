@@ -4,7 +4,9 @@
 - 🎨 My portfolio of work in Tableau is on [Tableau Public](https://public.tableau.com/app/profile/nicole.mark).
 - 🌱 I’m currently brushing up on HTML and CSS and learning d3.js. I'm a new convert to Svelte.
 - 💞️ I’m looking to collaborate on dataviz projects, especially ones with a positive social impact.
-- 📫 Reach me via [email](hello@nicoledesignsdata.com), on [Twitter](https://www.twitter.com/nicolemark_), or `@nicolemark@vis.social`  on Mastodon.
+- 📫 [email](hello@nicoledesignsdata.com)
+- ☁️ [Bluesky](https://bsky.app/profile/nicolemark.bsky.social))
+- 🖥 [Mastodon](https://vis.social/@nicolemark).
 
 <!---
 nicolelily/nicolelily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
